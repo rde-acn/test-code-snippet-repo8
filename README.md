@@ -131,26 +131,39 @@ fastapi, uvicorn
 | Documentation Completeness | 2 / 5  | ⭐⭐☆☆☆          |
 | Reusability / Scalability  | 3 / 5  | ⭐⭐⭐☆☆          |
 
-🔄 Review Decision
-Overall Status
+## 🔄 ReviewDecision
+
+### OverallStatus
 <!-- OVERALL_STATUS:START -->
-OptionSelected✅ Approved⬜🔁 Approved with Changes⬜❌ Rejected✅🔍 Needs Re-review⬜
+- ✅ Approved
+- ⬜ 🔁 Approved with Changes
+- ⬜ ❌ Rejected
+- ⬜ 🔍 Needs Re-review
 <!-- END: Overall Status -->
 
-Priority of Changes
+### PriorityofChanges
 <!-- PRIORITY_OF_CHANGES:START -->
-OptionSelected🔴 Critical⬜🟠 Major✅🟡 Minor⬜⚪ None⬜
+| Option | Selected |
+|--------|----------|
+| 🔴 Critical | ⬜ |
+| 🟠 Major | ⬜ |
+| 🟡 Minor | ⬜ |
+| ⚪ None | ⬜ |
 <!-- END: Priority of Changes -->
 
-Re-review Required?
+### Re-reviewRequired?
 <!-- REREVIEW_REQUIRED:START -->
-OptionSelected✅ Yes✅❌ No⬜
+| Option | Selected |
+|--------|----------|
+| ✅ Yes | ⬜ |
+| ❌ No | ⬜ |
 <!-- END: Re-review Required -->
 
-Re-review Due Date
+### Re-reviewDueDate
 <!-- REREVIEW_DUE_DATE:START -->
 2026-04-09
-<!-- END: Re-review Due Date -->
+<!-- END: REREVIEW_DUE_DATE -->
+
 
 <!-- END: SME Review -->
 
@@ -159,5 +172,6 @@ Re-review Due Date
 npm install @reinvention/test-code-snippet-repo
  
 <!-- END: Installation -->
+
 
 
