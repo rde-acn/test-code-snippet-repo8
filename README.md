@@ -124,12 +124,12 @@ fastapi, uvicorn
 
 | Criteria                   | Rating | Visual          |
 |----------------------------|--------|-----------------|
-| Technical Accuracy         | 5 / 5  | ⭐⭐⭐⭐⭐          |
-| Security & Compliance      | 5 / 5  | ⭐⭐⭐⭐⭐          |
-| Adherence to Standards     | 4 / 5  | ⭐⭐⭐⭐☆          |
+| Technical Accuracy         | 1 / 5  | ⭐☆☆☆☆          |
+| Security & Compliance      | 2 / 5  | ⭐⭐☆☆☆          |
+| Adherence to Standards     | 3 / 5  | ⭐⭐⭐☆☆          |
 | Code Quality / Readability | 4 / 5  | ⭐⭐⭐⭐☆          |
-| Documentation Completeness | 3 / 5  | ⭐⭐⭐☆☆          |
-| Reusability / Scalability  | 4 / 5  | ⭐⭐⭐⭐☆          |
+| Documentation Completeness | 5 / 5  | ⭐⭐⭐⭐⭐          |
+| Reusability / Scalability  | 5 / 5  | ⭐⭐⭐⭐⭐          |
 
 <!-- END: SME Review -->
 
