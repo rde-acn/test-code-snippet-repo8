@@ -134,12 +134,12 @@ fastapi, uvicorn
 🔄 Review Decision
 Overall Status
 <!-- OVERALL_STATUS:START -->
-OptionSelected✅ Approved⬜🔁 Approved with Changes⬜❌ Rejected⬜🔍 Needs Re-review⬜
+OptionSelected✅ Approved⬜🔁 Approved with Changes⬜❌ Rejected✅🔍 Needs Re-review⬜
 <!-- END: Overall Status -->
 
 Priority of Changes
 <!-- PRIORITY_OF_CHANGES:START -->
-OptionSelected🔴 Critical⬜🟠 Major⬜🟡 Minor⬜⚪ None⬜
+OptionSelected🔴 Critical⬜🟠 Major✅🟡 Minor⬜⚪ None⬜
 <!-- END: Priority of Changes -->
 
 Re-review Required?
